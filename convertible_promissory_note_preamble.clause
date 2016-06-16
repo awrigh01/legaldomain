@@ -1,10 +1,18 @@
 name:  Convertible Promissory Note - Preamble
 description: This is the preamble language for a convertible promissory note
 parameters:
-   contractor:
-       type: Convertible Promissory Note
-       contractorBirthdate: June 15, 2016
-       type: June 15, 2016
+   Company name:
+       type: Name
+   
+   Hilder Name:
+   		type: Name
+
+   	Principle Sum:
+   		type: Price in dollar
+
+   	Effective Date Convertible Promissory Note Purchase Agreement:
+   		type: Date
+
 text:
   For value received [[Company Name]], a Delaware corporation (the “Company”), promises to pay to [[Hilder Name]] or its assigns (“Holder”) the principal sum of $[[Principle Sum]] together with accrued and unpaid interest thereon, each due and payable on the date and in the manner set forth below. 
 
