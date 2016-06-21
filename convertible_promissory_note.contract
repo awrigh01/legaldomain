@@ -1,0 +1,20 @@
+name:  Convertible Promissory Note
+description: This is a convertible promissory note based on the document open sourced by the incubator Tech Stars
+
+parameters:
+   [[fill in]]
+
+clauses:
+   [[preamble
+   repayment
+   interest rate
+   conversion
+   maturity
+   expenses
+   prepayment
+   default
+   waiver
+   governing law
+   partity with other notes
+   modification
+   assignment]]

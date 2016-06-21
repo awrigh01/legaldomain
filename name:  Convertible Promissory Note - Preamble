@@ -1,5 +1,5 @@
 name:  Convertible Promissory Note - Preamble
-description: This is the preamble language for a convertible promissory .  It defines the company, holder, and the principle sum of the note.
+description: This is the preamble language for a convertible promissory note
 parameters:
    Company Name:
        type: Name
