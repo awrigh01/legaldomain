@@ -2,10 +2,29 @@ name:  Convertible Promissory Note
 description: This is a convertible promissory note based on the document open sourced by the incubator Tech Stars
 
 parameters:
-   [[fill in]]
+   - Company Name:
+      type: Name
+
+   - Holder Name:
+      type: Name
+
+   - Principle Sum:
+      type: Price in Dollar
+
+   - Effective Date Convertible Promissory Note Purchase Agreement:
+      type: Date 
+
+   - Maturity Date:
+      type: Date
+      default value: Effective Date + 2 weeks
 
 clauses:
-   [[preamble
+   preamble:
+      Company Name: Company Name
+      Holder Name: Holder Name
+      Principle Sum: Principle Sum
+      Effective Date Convertible Promissory Note Purchase Agreement: Effective Date Convertible Promissory Note Purchase Agreement
+   
    repayment
    interest rate
    conversion
