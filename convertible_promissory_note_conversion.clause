@@ -2,6 +2,8 @@ name:  Convertible Promissory Note - Conversion
 
 description: This is the conversion paragraph for a convertible promissory note
 
+category: Convertible Promissory Note, Conversion, Repayment Premoim on Sale of Company, Venture Capital, Seed Financing, Tech Stars
+
 parameters:
    Qualified Financing Amount:
        type: Price in dollar
@@ -24,6 +26,4 @@ text:
 ##	For purposes of this Note: 
 ###	“Sale of the Company” shall mean (i) any consolidation or merger of the Company with or into any other corporation or other entity or person, or any other corporate reorganization, other than any such consolidation, merger or reorganization in which the stockholders of the Company immediately prior to such consolidation, merger or reorganization, continue to hold at least a majority of the voting power of the surviving entity in substantially the same proportions (or, if the surviving entity is a wholly owned subsidiary, its parent) immediately after such consolidation, merger or reorganization; (ii) any transaction or series of related transactions to which the Company is a party in which in excess of 50% of the Company’s voting power is transferred; provided, however, that a Sale of the Company shall not include any transaction or series of transactions principally for bona fide equity financing purposes in which cash is received by the Company or any successor or indebtedness of the Company is cancelled or converted or a combination thereof; or (iii) a sale, lease, exclusive license or other disposition of all or substantially all of the assets of the Company. 
 ###	“Equity Securities” shall mean the Company’s Preferred Stock or any securities conferring the right to purchase the Company’s Preferred Stock or securities convertible into, or exchangeable for (with or without additional consideration), the Company’s Preferred Stock, except that such defined term shall not include any security (x) granted, issued and/or sold by the Company to any employee, director or consultant in such capacity or (y) issued upon the conversion or exercise of any option or warrant outstanding as of the date of this Note. 
-
-Category: Convertible Promissory Note, Conversion, Repayment Premoim on Sale of Company, Venture Capital, Seed Financing, Tech Stars
 

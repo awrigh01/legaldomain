@@ -2,6 +2,8 @@ name:  Convertible Promissory Note - Default
 
 description: Defaults are a fact of life when it comes to loans and other notes.  This provision outlines various conditions when a default will occur.
 
+category: Convertible Promissory Note, Default, Venture Capital, Seed Financing, Tech Stars
+
 parameters:
 	Petition Discharge:
 		type: number
@@ -12,5 +14,3 @@ text:
 ##	The Company shall default in its performance of any covenant under the Agreement or any Note;
 ##	The Company files any petition or action for relief under any bankruptcy, reorganization, insolvency or moratorium law or any other law for the relief of, or relating to, debtors, now or hereafter in effect, or makes any assignment for the benefit of creditors or takes any corporate action in furtherance of any of the foregoing; or
 ##	An involuntary petition is filed against the Company (unless such petition is dismissed or discharged within [[Petition Discharge]] days under any bankruptcy statute now or hereafter in effect, or a custodian, receiver, trustee, assignee for the benefit of creditors (or other similar official) is appointed to take possession, custody or control of any property of the Company. 
-
-Category: Convertible Promissory Note, Default, Venture Capital, Seed Financing, Tech Stars
